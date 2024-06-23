@@ -44,7 +44,7 @@ You can view your exact specs by doing `./specinfo`
 * Activate a [Google Cloud Shell](https://console.cloud.google.com/) on Google cloud.
 * Clone this GitHub Project into the Console:
 ```
-git clone https://github.com/stan0ne/mcserver
+git clone https://github.com/stan0ne/MinecraftCloud
 ```
 * Go into `mcserver` directory:
 ```

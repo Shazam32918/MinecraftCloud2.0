@@ -60,11 +60,10 @@ chmod +x *
 ```
 Follow the installation step shown in the console
 * Run the Start Server Script:
+* (You only need to do this if you chose `No`.)
 ``` 
 ./startserver
 ```
-(You only need to do this if you chose `No`.)
-
 ## Java Server Additional Setup (You can skip this part)
 *(This only applies to Java Servers including Nukkit or the EULA script didn't work for you.)*
 

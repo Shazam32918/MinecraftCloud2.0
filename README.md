@@ -46,9 +46,9 @@ You can view your exact specs by doing `./specinfo`
 ```
 git clone https://github.com/stan0ne/MinecraftCloud
 ```
-* Go into `mcserver` directory:
+* Go into `MinecraftCloud` directory:
 ```
-cd mcserver
+cd MinecraftCloud
 ```
 * Allow all commands executable:
 ```

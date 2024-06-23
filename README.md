@@ -89,7 +89,8 @@ cd ..
 * Now everything should be functional and ready. You can check if your server is up and running by doing `screen -r server`.
 ## Joining your Server
 * To join your server, start your server by doing `./startserver` *(If you haven't started it yet)* and do this command:
-``` 
+```
+./startPlayit
 screen -r playit
 ```
 - Now click the **Claim URL** and it should show you your host IP and Tunnel Server.

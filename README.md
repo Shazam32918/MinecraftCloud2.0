@@ -56,7 +56,7 @@ chmod +x *
 ```
 * Run the Installation Script:
 ```
-./install
+bash install
 ```
 Follow the installation step shown in the console
 * Run the Start Server Script:

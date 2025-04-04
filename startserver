@@ -31,9 +31,9 @@ echo "> EULA Detected! Starting Server up..."
 else
 echo "> Your server isn't setup properly. Force uninstall..."
 cd $MAIN_DIR
-./uninstall
+bash uninstall
 echo "> Comfirmed Uninstallation! Restarting Installation..."
-./install
+bash install
 fi
 
 # apparently ppl keep spamming startserver and end up having multiple screens of the same app
